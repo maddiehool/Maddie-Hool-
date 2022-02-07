@@ -32,6 +32,8 @@ The most interesting piece of this project was the “Highlights” section. Aft
 
 The site is very pleasing and well organized. One thing that bothered me was the presentation of the notebooks to the user. They're shown in a grid pattern (pictured below). This includes a small picture of each notebook and the location of where Booth wrote it. I would’ve liked to see them in a listed pattern, but I understand why the project director chose this layout. Putting the notebooks in a listed pattern and ordering them by location would make the page layout more cohesive. This also maintains the original purpose of these pages. 
 
+![grid layout](https://maddiehool.github.io/Maddie-Hool-/images/grid layout.png)
+
 All the information a user needs for navigating this project is clear. Even though this is the case, another critique that I have is that important background information was at the bottom of the page. Important background information should be at the top of the page. This way, people who don’t know who Charles Booth was would have a laid foundation on why this project is important. 
 
 Overall, this project is very informative. Before reviewing this website, I didn’t know who Charles Booth was or what he did. This website did a great job at educating people about him and what he did. I enjoyed navigating this project and learning about Charles Booth’s notebooks and maps. 
