@@ -28,9 +28,9 @@ Yet, on the mobile site, this feature is not there. You can still search the map
 
 After clicking on the “Browse the Notebooks" section, the website provides a list of notebooks to choose from. The pages are very informative and tell you everything you need to know about each notebook. This includes being able to search which district of London you would like to look at. 
 
-![highlights](https://maddiehool.github.io/Maddie-Hool-/images/highlights.png)
-
 The most interesting piece of this project was the “Highlights” section. After this, the website prompts the user to click on a sub-section. These sub-sections include drink and drugs, migrant communities, and prostitution. After picking a sub-section, the project provides a summary of that highlight. Included in the highlights are pictures and excerpts from notebooks as well. This section is very informative and provides background about London at the time.
+
+![highlights](https://maddiehool.github.io/Maddie-Hool-/images/highlights.png)
 
 The site is very pleasing and well organized. One thing that bothered me was the presentation of the notebooks to the user. They're shown in a grid pattern (pictured below). This includes a small picture of each notebook and the location of where Booth wrote it. I would’ve liked to see them in a listed pattern, but I understand why the project director chose this layout. Putting the notebooks in a listed pattern and ordering them by location would make the page layout more cohesive. This also maintains the original purpose of these pages. 
 
