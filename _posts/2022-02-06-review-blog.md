@@ -26,7 +26,7 @@ Browsing through the map was pretty easy and very interesting. The main features
 
 Yet, on the mobile site, this feature is not there. You can still search the maps and click the book button in the top right corner to see where Booth wrote certain notebooks. 
 
-![mobile-site](https://maddiehool.github.io/Maddie-Hool-/images/mobile-site.PNG)
+![mobile-site](https://maddiehool.github.io/Maddie-Hool-/images/mobile-site.png)
 
 ## Findings
 
