@@ -43,4 +43,6 @@ The site is very pleasing and well organized. One thing that bothered me was the
 
 All the information a user needs for navigating this project is clear. Even though this is the case, another critique that I have is that important background information was at the bottom of the page. Important background information should be at the top of the page. This way, people who don’t know who Charles Booth was would have a laid foundation on why this project is important. 
 
+![bottom-of-page](https://maddiehool.github.io/Maddie-Hool-/images/bottom-of-page.png)
+
 Overall, this project is very informative. Before reviewing this website, I didn’t know who Charles Booth was or what he did. This website did a great job at educating people about him and what he did. I enjoyed navigating this project and learning about Charles Booth’s notebooks and maps. 
