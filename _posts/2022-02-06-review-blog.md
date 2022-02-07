@@ -26,6 +26,8 @@ Browsing through the map was pretty easy and very interesting. The main features
 
 Yet, on the mobile site, this feature is not there. You can still search the maps and click the book button in the top right corner to see where Booth wrote certain notebooks. 
 
+![mobile-site](https://maddiehool.github.io/Maddie-Hool-/images/mobile-site.PNG)
+
 ## Findings
 
 After clicking on the “Browse the Notebooks" section, the website provides a list of notebooks to choose from. The pages are very informative and tell you everything you need to know about each notebook. This includes being able to search which district of London you would like to look at. 
