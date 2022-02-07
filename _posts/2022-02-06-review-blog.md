@@ -14,6 +14,8 @@ According to this website, Charles Booth was “an English industrialist and soc
 
 Charles Booth’s London is an interactive website that takes his surveys about life in London. The website shows the poverty maps and notebooks he wrote right before the 20th century. The main feature of the project is the map. A key feature of the map includes the ability to compare Charles Booth’s poverty maps to modern areas of London. This feature also gives users the ability to view London through different time periods, not just modern day. Users can also scroll and navigate the city as they please.
 
+![map](https://maddiehool.github.io/Maddie-Hool-/images/map.png)
+
 The notebooks include interviews from a wide range of people living in London. The highlights of the notebooks are about drinking, drugs, migrant communities, and prostitution.
 
 ## Design
