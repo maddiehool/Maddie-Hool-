@@ -28,6 +28,7 @@ Yet, on the mobile site, this feature is not there. You can still search the map
 
 ![mobile-site](https://maddiehool.github.io/Maddie-Hool-/images/mobile-site.png)
 
+
 ## Findings
 
 After clicking on the “Browse the Notebooks" section, the website provides a list of notebooks to choose from. The pages are very informative and tell you everything you need to know about each notebook. This includes being able to search which district of London you would like to look at. 
