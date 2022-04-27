@@ -15,7 +15,7 @@ In terms of assignments, I really enjoyed the blog posts. I thought that they we
 
 ![homepage](https://maddiehool.github.io/Maddie-Hool-/images/homepage.png)
 
-Sidenote: I also really liked tweeting about class and the readings each week. While I sometimes had a hard time coming up with things to tweet about, it was nice to see what my classmates thought about different readings, class concepts, and assignments. 
+**Sidenote:** I also really liked tweeting about class and the readings each week. While I sometimes had a hard time coming up with things to tweet about, it was nice to see what my classmates thought about different readings, class concepts, and assignments. 
 
 The one assignment that I struggled with the most was the grant project. I had no trouble with coming up with ideas or doing research, but I had some difficulty when it came to actually writing about what I wanted a project to be about (i.e. the first draft and some of the final draft). I think I struggled the most on this assignment because it was hard for me to envision a project without developing it but still writing a paper about it. 
 
