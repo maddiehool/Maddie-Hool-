@@ -11,7 +11,7 @@ Recently, we revisited our original definitions of DH in class. My final definit
  When it came to the readings for this class, I enjoyed how some of the readings weren’t solely focused on content or topics from class. What I mean by this is how some readings were integrated in a more interactive way. For example, the Github and markdown tutorials were super useful in learning different softwares for assignments. They were very beneficial in providing examples of DH projects. They were not only helpful for specific assignments, but they were very useful skills to learn for future jobs. They’re definitely a skill to include on a resume, especially if you’re interested in marketing or recruiting. 
 
 ## Assignments
-In terms of assignments, I really enjoyed the blog posts. I thought that they were a different way of discussion boards, but they also integrated some aspects from class into posting them, such as coding the text correctly or adding photos to a post. I especially enjoyed the review blog since it was about analyzing a DH project, which I have never done before. Plus, the project that I chose to write about was super interesting. 
+In terms of assignments, I really enjoyed the blog posts. I thought that they were a different way of discussion boards, but they also integrated some aspects from class into posting them, such as coding the text correctly or adding photos to a post. I especially enjoyed the review blog since it was about analyzing a DH project, which I have never done before. Also, the project that I chose to write about was super interesting. It was about Charles Booth, who was an English industrialist and social reformer. 
 
 ![homepage](https://maddiehool.github.io/Maddie-Hool-/images/homepage.png)
 
