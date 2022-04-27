@@ -23,7 +23,7 @@ The one assignment that I struggled with the most was the grant project. I had n
 ## Conclusion
 Overall, my outlook on digital humanities has definitely changed in the best way. I think this course has made me a better reader and writer. The readings provided useful information on how to become a better reader and writer by using different strategies and how to understand varying reading/writing styles. 
 
-![first drafts](https://maddiehool.github.io/Maddie-Hool-/images/first_drafts.png)
+![tweet](https://maddiehool.github.io/Maddie-Hool-/images/tweet.png)
 
 At the beginning of the semester, my goal for this class was to learn about the field of DH and how I can incorporate those skills into my life after college. I feel as though my college education has kind of come full circle in a way. 
 
