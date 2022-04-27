@@ -1,17 +1,17 @@
 # Reflection
 
 ## What is DH to me? 
-	I wasn’t sure of what to expect when I signed up for this class. I took this class for the last requirement for my digital humanities minor, but this was the first time I have taken a course specifically geared toward digital humanities. To be honest, I was a little hesitant and also a little scared since I wasn’t sure of what DH was about. 
+I wasn’t sure of what to expect when I signed up for this class. I took this class for the last requirement for my digital humanities minor, but this was the first time I have taken a course specifically geared toward digital humanities. To be honest, I was a little hesitant and also a little scared since I wasn’t sure of what DH was about. 
 
-	My original definition of digital humanities was “digital humanities can be described as using technological tools in order to conduct research and inform people about DH projects. The field is ever-changing, and even technological tools used 10 years ago have become outdated. Because of this, I think DH is an important field today due to its ability to adapt and change along with us.” 
+My original definition of digital humanities was “digital humanities can be described as using technological tools in order to conduct research and inform people about DH projects. The field is ever-changing, and even technological tools used 10 years ago have become outdated. Because of this, I think DH is an important field today due to its ability to adapt and change along with us.” 
 
 Recently, we revisited our original definitions of DH in class. My final definition of digital humanities adds to my original definition a bit. It goes as follows - “DH just isn’t about researching and informing people about other projects. The biggest thing that I’ve learned about DH is that it plays a huge role in the creation of those projects, while building off of previous research. The most important thing that I’ve learned about DH, especially through the grant project, is the significance of these projects. It’s taking topics and other fields and making them more engaging and more interactive.”
 
 ## Readings
-  When it came to the readings for this class, I enjoyed how some of the readings weren’t solely focused on content or topics from class. What I mean by this is how some readings were integrated in a more interactive way. For example, the Github and markdown tutorials were super useful in learning different softwares for assignments. They were very beneficial in providing examples of DH projects. They were not only beneficial for specific assignments, but they were very beneficial skills to learn for future jobs. They’re definitely a skill to include on a resume, especially if you’re interested in marketing or recruiting. 
+ When it came to the readings for this class, I enjoyed how some of the readings weren’t solely focused on content or topics from class. What I mean by this is how some readings were integrated in a more interactive way. For example, the Github and markdown tutorials were super useful in learning different softwares for assignments. They were very beneficial in providing examples of DH projects. They were not only beneficial for specific assignments, but they were very beneficial skills to learn for future jobs. They’re definitely a skill to include on a resume, especially if you’re interested in marketing or recruiting. 
 
 ## Assignments
-	In terms of assignments, I really enjoyed the blog posts. I thought that they were a different way of discussion boards, but they also integrated some aspects from class into posting them, such as coding the text correctly or adding photos to a post. I especially enjoyed the review blog since it was about analyzing a DH project, which I have never done before. Plus, the project that I chose to write about was super interesting. 
+In terms of assignments, I really enjoyed the blog posts. I thought that they were a different way of discussion boards, but they also integrated some aspects from class into posting them, such as coding the text correctly or adding photos to a post. I especially enjoyed the review blog since it was about analyzing a DH project, which I have never done before. Plus, the project that I chose to write about was super interesting. 
 
 ![homepage](https://maddiehool.github.io/Maddie-Hool-/images/homepage.png)
 
@@ -21,9 +21,9 @@ The one assignment that I struggled with the most was the grant project. I had n
 
 
 ## Conclusion
-	Overall, my outlook on digital humanities has definitely changed in the best way. I think this course has made me a better reader and writer. The readings provided useful information on how to become a better reader and writer by using different strategies and how to understand varying reading/writing styles. 
+Overall, my outlook on digital humanities has definitely changed in the best way. I think this course has made me a better reader and writer. The readings provided useful information on how to become a better reader and writer by using different strategies and how to understand varying reading/writing styles. 
 
-![first drafts](https://maddiehool.github.io/Maddie-Hool-/images/firstdrafts.png)
+![first drafts](https://maddiehool.github.io/Maddie-Hool-/images/first_drafts.png)
 
 At the beginning of the semester, my goal for this class was to learn about the field of DH and how I can incorporate those skills into my life after college. I feel as though my college education has kind of come full circle in a way. 
 
