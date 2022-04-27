@@ -1,7 +1,7 @@
 # Reflection
 
 ## What is DH to me? 
-I wasn’t sure of what to expect when I signed up for this class. I took this class for the last requirement for my digital humanities minor, but this was the first time I have taken a course specifically geared toward digital humanities. To be honest, I was a little hesitant and also a little scared since I wasn’t sure of what DH was about. 
+I wasn’t sure of what to expect when I signed up for this class. I took this class for the last requirement for my digital humanities minor, but this was the first time I have taken a course specifically geared toward digital humanities. To be honest, I was a little hesitant and also a little scared since I wasn’t sure what DH was about. 
 
 My original definition of digital humanities was “digital humanities can be described as using technological tools in order to conduct research and inform people about DH projects. The field is ever-changing, and even technological tools used 10 years ago have become outdated. Because of this, I think DH is an important field today due to its ability to adapt and change along with us.” 
 
