@@ -17,7 +17,9 @@ In terms of assignments, I really enjoyed the blog posts. I thought that they we
 
 Sidenote: I also really liked tweeting about class and the readings each week. While I sometimes had a hard time coming up with things to tweet about, it was nice to see what my classmates thought about different readings, class concepts, and assignments. 
 
-The one assignment that I struggled with the most was the grant project. I had no trouble with coming up with ideas or doing research, but I had some difficulty when it came to actually writing about what I wanted a project to be about (i.e. the first draft and some of the final draft). I think I struggled the most on this assignment because it was hard for me to envision a project without developing it but still writing a paper about it. At first, it kind of confused me. I’m not going to lie, I thought I was actually creating the project instead of writing a grant proposal for one for the first week and a half after talking about it in class. Obviously, this wasn’t the case, but I eventually found my footing and was able to complete the project the way I was supposed to. 
+The one assignment that I struggled with the most was the grant project. I had no trouble with coming up with ideas or doing research, but I had some difficulty when it came to actually writing about what I wanted a project to be about (i.e. the first draft and some of the final draft). I think I struggled the most on this assignment because it was hard for me to envision a project without developing it but still writing a paper about it. 
+
+At first, it kind of confused me. I’m not going to lie, I thought I was actually creating the project instead of writing a grant proposal for one for the first week and a half after talking about it in class. Obviously, this wasn’t the case, but I eventually found my footing and was able to complete the project the way I was supposed to. 
 
 
 ## Conclusion
