@@ -29,3 +29,4 @@ At the beginning of the semester, my goal for this class was to learn about the 
 
 My major is communication studies with a minor in business administration, so I feel like DH has kind of combined those two fields together and added a coding aspect to it. Coding in any form is a very useful tool nowadays, so I’m super excited to keep that skill in my back pocket. I really enjoyed this class and everything it has taught me this semester!
 
+
